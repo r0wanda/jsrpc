@@ -1,0 +1,16 @@
+{
+  "name": "jsrpc",
+  "version": "1.0.0",
+  "description": "Typescript Discord RPC",
+  "main": "index.ts",
+  "scripts": {
+    "test": "tsc && node index.js"
+  },
+  "author": "Rowanda",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "@types/node": "^20.8.0",
+    "@types/uuid": "^9.0.4",
+    "uuid": "^9.0.1"
+  }
+}
